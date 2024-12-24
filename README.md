@@ -18,4 +18,4 @@ A desktop application built with Python and Tkinter to extract text from images 
 
 ## Tesseract OCR installed on your system.
 On Windows, download from Tesseract's official site and configure its path in the script:
-pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
+pytesseract.pytesseract.tesseract_cmd =_ r'C:\Program Files\Tesseract-OCR\tesseract.exe'_
